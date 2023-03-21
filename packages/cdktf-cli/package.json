@@ -34,7 +34,7 @@
   "license": "MPL-2.0",
   "dependencies": {
     "@cdktf/cli-core": "0.0.0",
-    "@cdktf/commons": "0.0.0",
+    "@cdktf/commons": "0.15.5",
     "@cdktf/hcl2cdk": "0.0.0",
     "@cdktf/hcl2json": "0.0.0",
     "@sentry/node": "^6.19.7",
