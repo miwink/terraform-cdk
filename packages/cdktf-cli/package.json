@@ -38,7 +38,7 @@
     "@cdktf/hcl2cdk": "0.15.5",
     "@cdktf/hcl2json": "0.15.5",
     "@sentry/node": "^6.19.7",
-    "cdktf": "0.0.0",
+    "cdktf": "0.15.5",
     "codemaker": "^1.76.0",
     "constructs": "^10.0.25",
     "cross-spawn": "^7.0.3",
