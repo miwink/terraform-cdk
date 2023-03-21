@@ -135,7 +135,7 @@ class NodePackageManager extends PackageManager {
     console.log(`Adding package ${packageName} @ ${packageVersion}`);
 
     // probe for package-lock.json or yarn.lock
-    let command = "npm";
+    let command = "pnpm";
     let args = ["install"];
 
     if (this.hasYarnLockfile()) {
